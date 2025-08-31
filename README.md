@@ -21,6 +21,5 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 - [Email](mailto:jmk21a@acu.edu)  
 - [GitHub](https://github.com/jennamkeeley)
 
----
 
 Thanks for visiting — feel free to explore my work and reach out if you want to collaborate!
