@@ -1,4 +1,4 @@
-##**Hi! I'm Jenna!**##
+**Hi! I'm Jenna!**
 
 ## 🌟 **Welcome to my portfolio!**
 I’m a Computer Science & Software Engineering student who loves blending code, design, and data to solve real-world problems. Here, you’ll find a mix of:
