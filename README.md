@@ -1,2 +1,2 @@
 # jennamkeeley.github.io
-Computer Science &amp; Software Engineering student with diverse projects in web development, UI/UX design, and data analysis. Showcasing PDF case studies, Figma prototypes, and coded applications, blending technical skill with creative problem-solving.
+Hi! I’m Jenna! I’m a Computer Science & Software Engineering student who loves blending code, design, and data to solve real problems. My portfolio mixes web apps, UI/UX prototypes, and case studies—showing how I turn ideas into polished, impactful projects.
