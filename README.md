@@ -30,5 +30,5 @@ Thanks for visiting — feel free to explore my work and reach out if you want t
 **Tech:** R, tidyverse, caret, ggplot2, e1071, rpart, pROC  
 A machine learning project analyzing over 10,000 banking customer records to predict churn and identify key customer retention strategies.  
 **Highlights:** Achieved 85%+ accuracy using kNN and CART, high sensitivity (97.40%) for churn detection, interpretable models for actionable retention strategies.  
-[!Cover Image](portfolio_cover_image.jpeg)
+![Cover Image](portfolio_cover_image.jpeg)
 
