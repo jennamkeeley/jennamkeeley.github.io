@@ -18,10 +18,12 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 
 </td>
 <td style="vertical-align: middle; width: 70%;">  
-- Senior at Abilene Christian University (4.0 GPA)  
-- Junior Software Engineer & Project Manager at Dome Software  
-- NCAA Division I Cross Country & Track athlete  
-- Violinist & Pianist  
+<ul>
+  <li>Senior at Abilene Christian University (4.0 GPA)</li>
+  <li>Junior Software Engineer & Project Manager at Dome Software</li>
+  <li>NCAA Division I Cross Country & Track athlete</li>
+  <li>Violinist & Pianist</li>
+</ul>  
 </td>
 </tr>
 </table>
