@@ -36,13 +36,12 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
 - **85%+ accuracy** with kNN and CART models; **97.40% sensitivity** for churn detection.  
 - Discovered **tenure, account balance, and activity level** as primary retention predictors.  
 - Delivered interpretable, business-ready insights for targeted customer retention strategies.
-
 <p align="center">
   <a href="https://github.com/jennamkeeley/bank-churn-ml">
     <img src="ml-portfolio-image.png" alt="Bank Churn Project Cover" width="800">
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a>    
   <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
 </p>
