@@ -1,6 +1,6 @@
 **Hi! I'm Jenna!**
 <p align="center">
-  <img src="A_digital_photograph_features_a_portrait_of_a_youn.png" alt="Jenna Keeley" width="300" style="border-radius: 50%;">
+  <img src="(https://github.com/jennamkeeley/jennamkeeley.github.io/blob/main/IMG_3616.JPG)" alt="Jenna Keeley" width="300" style="border-radius: 50%;">
 </p>
 ## 🌟 **Welcome to my portfolio!**
 I’m a Computer Science & Software Engineering student who loves blending code, design, and data to solve real-world problems. Here, you’ll find a mix of:
