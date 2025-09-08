@@ -26,7 +26,7 @@ Thanks for visiting — feel free to explore my work and reach out if you want t
 
 ## 🌟 **Featured Projects**
 
-### [Bank Customer Churn Prediction](https://github.com/jennamkeeley/bank-churn-ml)
+### 🚀 [Bank Customer Churn Prediction](https://github.com/jennamkeeley/bank-churn-ml)
 **Tech:** R, tidyverse, caret, ggplot2, e1071, rpart, pROC  
 
 **Overview:**  
@@ -49,7 +49,7 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
 
 
 
-### [Website Redesign Implementation – Dome Software](https://dome.software)
+### 🚀 [Website Redesign Implementation – Dome Software](https://dome.software)
 **Optimizing performance, accessibility, and SEO for a better user experience**
 
 **Tech:** HTML, CSS, JavaScript, WAVE Extension, Google PageSpeed Insights, SEO tools, ADA compliance scanners
