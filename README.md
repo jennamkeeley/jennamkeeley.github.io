@@ -28,8 +28,14 @@ Thanks for visiting — feel free to explore my work and reach out if you want t
 
 ### [Bank Customer Churn Prediction](https://github.com/jennamkeeley/bank-churn-ml)
 **Tech:** R, tidyverse, caret, ggplot2, e1071, rpart, pROC  
-A machine learning project analyzing over 10,000 banking customer records to predict churn and identify key customer retention strategies.  
-**Highlights:** Achieved 85%+ accuracy using kNN and CART, high sensitivity (97.40%) for churn detection, interpretable models for actionable retention strategies.  
+
+**Overview:**  
+Applied multiple machine learning algorithms to analyze 10,000+ banking customer records and identify key churn indicators.  
+
+**Highlights:**  
+- **85%+ accuracy** with kNN and CART models; **97.40% sensitivity** for churn detection.  
+- Discovered **tenure, account balance, and activity level** as primary retention predictors.  
+- Delivered interpretable, business-ready insights for targeted customer retention strategies.
 
 <p align="center">
   <a href="https://github.com/jennamkeeley/bank-churn-ml">
@@ -37,6 +43,6 @@ A machine learning project analyzing over 10,000 banking customer records to pre
   </a>
 </p>
 <p align="center">
-  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a> 
+  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a>    
   <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
 </p>
