@@ -9,7 +9,7 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 -  **Database Design** – Well-structured relational models supporting efficient queries and scalability.
 -  **SEO & Accessibility Revamps** – Including Dome website refreshes and improving search ranking and usability.
 
-**🌟 About Me**
+## **🌟 About Me**
 <table>
 <tr>
 <td style="width: 30%; text-align: center;">
@@ -18,12 +18,10 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 
 </td>
 <td style="vertical-align: middle; width: 70%;">  
-
 - Senior at Abilene Christian University (4.0 GPA)  
 - Junior Software Engineer & Project Manager at Dome Software  
 - NCAA Division I Cross Country & Track athlete  
 - Violinist & Pianist  
-
 </td>
 </tr>
 </table>
