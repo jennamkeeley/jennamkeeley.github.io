@@ -46,3 +46,28 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
 </p>
+
+### [Website Redesign Implementation – Dome Software]
+**Optimizing performance, accessibility, and SEO for a better user experience**
+
+**Tech:** HTML, CSS, JavaScript, WAVE Extension, Google PageSpeed Insights, SEO tools, ADA compliance scanners
+
+**Overview:**
+Implemented a full homepage redesign for Dome Software based on provided Figma mockups. Ensured the new layout was fully responsive, optimized for speed, met ADA accessibility guidelines, and followed SEO best practices.
+
+**My Responsibilities:**
+- Translated static designs into clean, responsive HTML, CSS, and JavaScript
+- Optimized images, scripts, and styles for faster load times
+- Applied semantic HTML, meta descriptions, and structured content for SEO
+- Validated accessibility compliance with WCAG 2.1 standards
+
+**Results:** (Before → After)
+- Performance: ~75% → 97% (+29%)
+- Accessibility: ~95% → 100% (+5%)
+- Best Practices: ~78% → 93% (+19%)
+- SEO: ~82% → 92% (+12%)
+- Reduced mobile render-blocking requests, improving page speed by >900 ms
+<a href="Case Study — Dome Software Homepage Redesign Implementation.pdf">📄 View Project PDF</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dome.software">💻 View Live Site</a>
+</p>
