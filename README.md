@@ -36,4 +36,7 @@ A machine learning project analyzing over 10,000 banking customer records to pre
     <img src="ml-portfolio-image.png" alt="Bank Churn Project Cover" width="500">
   </a>
 </p>
-
+<p align="center">
+  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a> |
+  <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
+</p>
