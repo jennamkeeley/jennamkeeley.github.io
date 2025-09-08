@@ -47,6 +47,8 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
   <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
 </p>
 
+
+
 ### Website Redesign Implementation – Dome Software
 **Optimizing performance, accessibility, and SEO for a better user experience**
 
