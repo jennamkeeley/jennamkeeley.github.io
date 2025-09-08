@@ -9,16 +9,15 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 -  **Database Design** – Well-structured relational models supporting efficient queries and scalability.
 -  **SEO & Accessibility Revamps** – Including Dome website refreshes and improving search ranking and usability.
 
+**🌟 About Me**
 <table>
 <tr>
 <td style="width: 30%; text-align: center;">
 
-<img src="IMG_3616.JPG" alt="Jenna Keeley" width="300" height="300" style="border-radius: 50%; object-fit: cover;">
+<img src="IMG_3616.JPG" alt="Jenna Keeley" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 
 </td>
-<td style="vertical-align: middle; width: 70%;">
-
-**🌟 About Me**  
+<td style="vertical-align: middle; width: 70%;">  
 
 - Senior at Abilene Christian University (4.0 GPA)  
 - Junior Software Engineer & Project Manager at Dome Software  
