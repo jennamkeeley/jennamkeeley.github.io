@@ -42,6 +42,7 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
   </a>
 </p>
 <p align="left">
-  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a>    
+  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
 </p>
