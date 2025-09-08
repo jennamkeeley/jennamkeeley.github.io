@@ -10,24 +10,19 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 -  **SEO & Accessibility Revamps** – Including Dome website refreshes and improving search ranking and usability.
 
 ## **🌟 About Me**
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td style="width: 30%; text-align: center;">
-
-<img src="IMG_3616.JPG" alt="Jenna Keeley" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
-
-</td>
-<td style="vertical-align: middle; width: 70%;">  
-<ul>
-  <li>Senior at Abilene Christian University (4.0 GPA)</li>
-  <li>Junior Software Engineer & Project Manager at Dome Software</li>
-  <li>NCAA Division I Cross Country & Track athlete</li>
-  <li>Violinist & Pianist</li>
-</ul>  
-</td>
-</tr>
-</table>
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="IMG_3616.JPG" alt="Jenna Keeley" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>Senior at Abilene Christian University (4.0 GPA)</li>
+      <li>Junior Software Engineer & Project Manager at Dome Software</li>
+      <li>NCAA Division I Cross Country & Track athlete</li>
+      <li>Violinist & Pianist</li>
+    </ul>
+  </div>
+</div>
 
 ## 🌟 **Let’s Connect**
 - [LinkedIn](www.linkedin.com/in/jenna-keeley-0521512a8)  
