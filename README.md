@@ -10,7 +10,7 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 -  **SEO & Accessibility Revamps** – Including Dome website refreshes and improving search ranking and usability.
 
 ## **🌟 About Me**
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;>
 <tr>
 <td style="width: 30%; text-align: center;">
 
