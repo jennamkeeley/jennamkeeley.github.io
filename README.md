@@ -49,7 +49,7 @@ Applied multiple machine learning algorithms to analyze 10,000+ banking customer
 
 
 
-### Website Redesign Implementation – Dome Software
+### [Website Redesign Implementation – Dome Software](https://dome.software)
 **Optimizing performance, accessibility, and SEO for a better user experience**
 
 **Tech:** HTML, CSS, JavaScript, WAVE Extension, Google PageSpeed Insights, SEO tools, ADA compliance scanners
