@@ -1,7 +1,4 @@
 **Hi! I'm Jenna!**
-<p align="center">
-  <img src="IMG_3616.JPG" alt="Jenna Keeley" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
-</p>
 ## 🌟 **Welcome to my portfolio!**
 I’m a Computer Science & Software Engineering student who loves blending code, design, and data to solve real-world problems. Here, you’ll find a mix of:
 
@@ -13,6 +10,9 @@ I’m a Computer Science & Software Engineering student who loves blending code,
 -  **SEO & Accessibility Revamps** – Including Dome website refreshes and improving search ranking and usability.
 
 ## 🌟 **About Me**
+<p align="center">
+  <img src="IMG_3616.JPG" alt="Jenna Keeley" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+</p>
 -  Senior at Abilene Christian University (4.0 GPA)
 -  Junior Software Engineer & Project Manager at Dome Software
 -  NCAA Division I Cross Country & Track athlete
