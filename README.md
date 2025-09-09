@@ -83,7 +83,7 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
   
 ---
 
-### 🚀 [Fitness Tracker App — UI/UX Design](Smartphone App Presentation.pdf)
+### 🚀 [Fitness Tracker App - UI/UX Design](Smartphone App Presentation.pdf)
 
 **Tech:** Figma, GOMS-KLM (Goals, Operators, Methods, and Selection rules – Keystroke-Level Model), Usability Testing
 
