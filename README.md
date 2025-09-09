@@ -23,13 +23,6 @@ I’m a Computer Science & Software Engineering student who loves blending code,
   </div>
 </div>
 
-## 🌟 **Let’s Connect**
-- [LinkedIn](www.linkedin.com/in/jenna-keeley-0521512a8)  
-- [Email](mailto:jmk21a@acu.edu)  
-- [GitHub](https://github.com/jennamkeeley)
-
-
-Thanks for visiting — feel free to explore my work and reach out if you want to collaborate!
 
 ## 🌟 **Featured Projects**
 
@@ -126,4 +119,12 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - [🏃 Find & start a workout video](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1)
   
 ---
+
+## 🌟 **Let’s Connect**
+- [LinkedIn](www.linkedin.com/in/jenna-keeley-0521512a8)  
+- [Email](mailto:jmk21a@acu.edu)  
+- [GitHub](https://github.com/jennamkeeley)
+
+
+Thanks for visiting — feel free to explore my work and reach out if you want to collaborate!
 
