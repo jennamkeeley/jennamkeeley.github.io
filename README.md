@@ -96,7 +96,13 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - Improved predicted task times by streamlining navigation and reducing taps
 - Designed for a balance of performance tracking, goal setting, and social sharing features
 - Delivered interactive prototype optimized for iOS and Android
-  
+
+<p align="center">
+  <a href="https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View All Mockup Screens</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="Smartphone App Presentation.pdf">📄 View Project Presentation</a>
+</p>
+
 <p align="center">
   <a href="https://github.com/jennamkeeley/bank-churn-ml">
     <img src="Smartphone App Image.png" alt="Smartphone App Mockup Examples" width="600">
@@ -108,8 +114,5 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - [🏃 Add a photo to a past activity & share it to social media](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=150-1026&t=IDszTIFVDWY9qGov-1)
 - [🏃 Find & start a workout video](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1)
   
-<p align="center">
-  <a href="https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View All Mockup Screens</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="Smartphone App Presentation.pdf">📄 View Project Presentation</a>
-</p>
+---
+
