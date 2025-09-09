@@ -85,24 +85,24 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
 
 ### 🚀 Fitness Tracker App — UI/UX Design
 
-**Tech:** Figma, GOMS-KLM (Goals, Operators, Methods, and Selection rules – Keystroke-Level Model) Usability Testing
+**Tech:** Figma, GOMS-KLM (Goals, Operators, Methods, and Selection rules – Keystroke-Level Model), Usability Testing
 
 **Overview:**
 Designed a mobile fitness tracking application focused on intuitive navigation, quick goal setting, and user motivation. Created high-fidelity wireframes and interactive prototypes in Figma, incorporating iterative improvements after multiple rounds of usability testing. Applied GOMS-KLM analysis to predict and measure task completion times, validating that design changes led to faster, more efficient user interactions.
 
 **Highlights:**
-Conducted 3+ rounds of moderated usability tests with feedback-driven revisions
-Improved predicted task times by streamlining navigation and reducing taps
-Designed for a balance of performance tracking, goal setting, and social sharing features
-Delivered interactive prototype optimized for iOS and Android
+- Conducted 3+ rounds of moderated usability tests with feedback-driven revisions
+- Improved predicted task times by streamlining navigation and reducing taps
+- Designed for a balance of performance tracking, goal setting, and social sharing features
+- Delivered interactive prototype optimized for iOS and Android
 
 <p align="center">
   <a href="https://github.com/jennamkeeley/bank-churn-ml">
-    <img src="ml-portfolio-image.png" alt="Bank Churn Project Cover" width="600">
+    <img src="Smartphone App Image.png" alt="Smartphone App Mockup Examples" width="600">
   </a>
 </p>
 <p align="center">
-  <a href="Customer Churn Analysis - Banking Sector.pdf">📄 View Project PDF</a>
+  <a href="https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View App Mockup</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jennamkeeley/bank-churn-ml">💻 View GitHub Repo</a>
+  <a href="Smartphone App Presentation.pdf">📄 View Project Presentation</a>
 </p>
