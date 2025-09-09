@@ -71,9 +71,11 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
 - Validated accessibility compliance with WCAG 2.1 standards
 
 <div align="center">
+  
 | Before | After |
 | ------ | ----- |
 | ![Old Homepage](before.png.png) | ![New Homepage](after.png.png) |
+
 </div>
 
 **Results:** (Before → After)
@@ -85,7 +87,7 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
 
 <a href="Case Study — Dome Software Homepage Redesign Implementation.pdf">📄 View Project PDF</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="Home_Before_Dome Software.htm">💻 View Old Site</a>
+  <a href="Home _ Before_Dome Software.htm">💻 View Old Site</a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://dome.software">💻 View Live Site</a>
   
