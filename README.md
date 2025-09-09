@@ -108,7 +108,7 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - [🏃 Find & start a workout video](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1)
   
 <p align="center">
-  <a href="https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View App Mockup</a>
+  <a href="https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View All Mockup Screens</a>
   &nbsp;&nbsp;&nbsp;
   <a href="Smartphone App Presentation.pdf">📄 View Project Presentation</a>
 </p>
