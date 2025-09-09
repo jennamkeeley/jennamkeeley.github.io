@@ -95,7 +95,7 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - Improved predicted task times by streamlining navigation and reducing taps
 - Designed for a balance of performance tracking, goal setting, and social sharing features
 - Delivered interactive prototype optimized for iOS and Android
-- 
+  
 **Task Flows**
 - [🏃 View stats from a previous workout]([https://figma.com/proto/flow1-link](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1))
 - [🏃 Add a photo to a past activity & share it to social media]([https://figma.com/proto/flow2-link](https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=150-1026&t=IDszTIFVDWY9qGov-1))
