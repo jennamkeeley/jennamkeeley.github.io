@@ -103,7 +103,7 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 </p>
 
 <p align="center">
-  <a href="https://github.com/jennamkeeley/bank-churn-ml">
+  <a href="Smartphone App Presentation.pdf">
     <img src="Smartphone App Image.png" alt="Smartphone App Mockup Examples" width="600">
   </a>
 </p>
