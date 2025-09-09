@@ -97,7 +97,7 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - Designed for a balance of performance tracking, goal setting, and social sharing features
 - Delivered interactive prototype optimized for iOS and Android
 
-<p align="center">
+<p align="left">
   <a href="https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View All Mockup Screens</a>
   &nbsp;&nbsp;&nbsp;
   <a href="Smartphone App Presentation.pdf">📄 View Project Presentation</a>
