@@ -81,6 +81,7 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
 <a href="Case Study — Dome Software Homepage Redesign Implementation.pdf">📄 View Project PDF</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://dome.software">💻 View Live Site</a>
+  
 ---
 
 ### 🚀 [Fitness Tracker App — UI/UX Design](Smartphone App Presentation.pdf)
