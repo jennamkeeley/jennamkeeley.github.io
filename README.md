@@ -96,16 +96,17 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 - Designed for a balance of performance tracking, goal setting, and social sharing features
 - Delivered interactive prototype optimized for iOS and Android
   
-**Task Flows**
-- [🏃 View stats from a previous workout](https://figma.com/proto/flow1-link](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1))
-- [🏃 Add a photo to a past activity & share it to social media](https://figma.com/proto/flow2-link](https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=150-1026&t=IDszTIFVDWY9qGov-1))
-- [🏃 Find & start a workout video](https://figma.com/proto/flow3-link](https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1))
-  
 <p align="center">
   <a href="https://github.com/jennamkeeley/bank-churn-ml">
     <img src="Smartphone App Image.png" alt="Smartphone App Mockup Examples" width="600">
   </a>
 </p>
+
+**Task Flows**
+- [🏃 View stats from a previous workout](https://figma.com/proto/flow1-link](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1))
+- [🏃 Add a photo to a past activity & share it to social media](https://figma.com/proto/flow2-link](https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=150-1026&t=IDszTIFVDWY9qGov-1))
+- [🏃 Find & start a workout video](https://figma.com/proto/flow3-link](https://www.figma.com/design/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1))
+  
 <p align="center">
   <a href="https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View App Mockup</a>
   &nbsp;&nbsp;&nbsp;
