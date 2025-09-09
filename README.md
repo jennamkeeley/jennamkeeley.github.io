@@ -70,9 +70,11 @@ Implemented a full homepage redesign for Dome Software based on provided Figma m
 - Applied semantic HTML, meta descriptions, and structured content for SEO
 - Validated accessibility compliance with WCAG 2.1 standards
 
+<div align="center">
 | Before | After |
 | ------ | ----- |
 | ![Old Homepage](before.png.png) | ![New Homepage](after.png.png) |
+</div>
 
 **Results:** (Before → After)
 - Performance: ~75% → 97% (+29%)
