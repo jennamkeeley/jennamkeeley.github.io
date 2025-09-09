@@ -105,7 +105,7 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
 **Task Flows**
 - [🏃 View stats from a previous workout](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1)
 - [🏃 Add a photo to a past activity & share it to social media](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=150-1026&t=ZG5XZDW33irg8JGA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=150%3A1026&show-proto-sidebar=1)
-- [🏃 Find & start a workout video](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=170%3A842&show-proto-sidebar=1)
+- [🏃 Find & start a workout video](https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=170-842&t=IDszTIFVDWY9qGov-1)
   
 <p align="center">
   <a href="https://www.figma.com/proto/bFtp1raQJxOTi6Lgj663am/Smart-Watch-App?node-id=0-1&t=IDszTIFVDWY9qGov-1">💻 View App Mockup</a>
