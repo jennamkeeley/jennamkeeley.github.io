@@ -134,7 +134,7 @@ Designed and implemented a normalized **3NF** relational database for a multi-lo
 - Wrote a majority of the SQL queries for operational and analytical use  
 
 <p align="center">
-  <img src="relational-database.jpeg" alt="EasyDrive ER Diagram" width="720">
+  <img src="relational-database.jpeg" alt="EasyDrive ER Diagram" width="500">
 </p>
 
 **Example Queries:**  
@@ -144,7 +144,7 @@ Designed and implemented a normalized **3NF** relational database for a multi-lo
 - Clients who passed the driving test in January 2013  
 - Average miles driven during a one-hour lesson  
 
-<a href="Normalization.pdf">📄 View Normalization PDF</a>
+<a href="https://github.com/jennamkeeley/normalized-database-design/raw/main/Normalization.pdf">📄 View Normalization PDF</a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/jennamkeeley/normalized-database-design">💻 View GitHub Repo</a>  
 
