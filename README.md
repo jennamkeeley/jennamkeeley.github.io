@@ -119,6 +119,37 @@ Designed a mobile fitness tracking application focused on intuitive navigation, 
   
 ---
 
+### 🚀 [Database Design – EasyDrive School of Motoring](https://github.com/jennamkeeley/normalized-database-design)  
+**Designing and implementing a normalized relational database for efficient operations**  
+
+**Tech:** MySQL, SQL Workbench, ER Diagram, Google Sheets 
+
+**Overview:**  
+Designed and implemented a normalized **3NF** relational database for a multi-location driving school. Created an ER diagram, implemented the schema in MySQL, populated it with realistic sample data, and wrote SQL queries to answer real operational questions such as staffing, scheduling, client outcomes, and mileage tracking.  
+
+**My Responsibilities:**  
+- Led ER Diagram design, ensuring relationships matched business rules  
+- Documented and executed full normalization to 3NF  
+- Created key tables in MySQL with constraints, indexes, and foreign keys  
+- Wrote a majority of the SQL queries for operational and analytical use  
+
+<p align="center">
+  <img src="relational-database.jpeg" alt="EasyDrive ER Diagram" width="720">
+</p>
+
+**Example Queries:**  
+- Managers’ names and phone numbers per office  
+- Female instructors in the Glasgow – Bearsden office  
+- Timetable of appointments for a given instructor next week  
+- Clients who passed the driving test in January 2013  
+- Average miles driven during a one-hour lesson  
+
+<a href="Normalization.pdf">📄 View Normalization PDF</a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jennamkeeley/normalized-database-design">💻 View GitHub Repo</a>  
+
+---
+
 ## 🌟 **Let’s Connect**
 - [LinkedIn](www.linkedin.com/in/jenna-keeley-0521512a8)  
 - [Email](mailto:jmk21a@acu.edu)  
