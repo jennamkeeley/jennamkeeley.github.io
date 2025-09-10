@@ -171,13 +171,11 @@ Acting as Project Manager for the development of a market research platform that
 - Preparing beta launch strategy and client onboarding plan  
 
 <p align="center">
-  <img src="relational-database.jpeg" alt="EasyDrive ER Diagram" width="500">
+  <img src="SaaS-product.jpeg" alt="SaaS Product" width="500">
 </p>
 
 **Planned Impact:**  
 Upon launch, this tool will provide small businesses with data-driven insights to improve decision-making, reduce risk, and identify growth opportunities in their chosen markets.  
-
-<a href="https://github.com/jennamkeeley/normalized-database-design/raw/main/Normalization.pdf">📄 View Case Study Preview</a>
 
 ---
 
