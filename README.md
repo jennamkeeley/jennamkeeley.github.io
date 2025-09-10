@@ -150,6 +150,37 @@ Designed and implemented a normalized **3NF** relational database for a multi-lo
 
 ---
 
+### 🚀 [Market Research Tool – In Progress](#)  
+**Leading development of a SaaS product for location-specific market intelligence**  
+
+**Tech & Tools:** Trello, Slack, Figma, Google Workspace, HubSpot, Looker Studio  
+
+**Overview:**  
+Acting as Project Manager for the development of a market research platform that delivers location-specific insights for entrepreneurs, small businesses, and investors. The tool will compile demand, competition, economic indicators, and local growth metrics into a single, visually compelling report.  
+
+**My Responsibilities:**  
+- Defined MVP scope, core features, and success metrics  
+- Coordinated between developers, marketing, and research teams to align timelines and deliverables  
+- Managed task boards, sprint planning, and status updates in Trello  
+- Developed early UI/UX wireframes in Figma and oversaw feedback iterations  
+- Created data structure outline and prioritized feature backlog for phased rollout  
+
+**Current Status:**  
+- MVP target release: **[October 2025]**  
+- Development in progress; front-end, report automation, and backend API integration underway  
+- Preparing beta launch strategy and client onboarding plan  
+
+<p align="center">
+  <img src="relational-database.jpeg" alt="EasyDrive ER Diagram" width="500">
+</p>
+
+**Planned Impact:**  
+Upon launch, this tool will provide small businesses with data-driven insights to improve decision-making, reduce risk, and identify growth opportunities in their chosen markets.  
+
+<a href="https://github.com/jennamkeeley/normalized-database-design/raw/main/Normalization.pdf">📄 View Case Study Preview</a>
+
+---
+
 ## 🌟 **Let’s Connect**
 - [LinkedIn](www.linkedin.com/in/jenna-keeley-0521512a8)  
 - [Email](mailto:jmk21a@acu.edu)  
