@@ -186,5 +186,5 @@ Upon launch, this tool will provide small businesses with data-driven insights t
 
 
 Thanks for visiting — feel free to explore my work and reach. I'd love to hear from you and connect!
-- Jenna K.
+Jenna K.
 
