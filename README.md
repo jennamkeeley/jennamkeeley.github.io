@@ -185,5 +185,6 @@ Upon launch, this tool will provide small businesses with data-driven insights t
 - [GitHub](https://github.com/jennamkeeley)
 
 
-Thanks for visiting — feel free to explore my work and reach out if you want to collaborate!
+Thanks for visiting — feel free to explore my work and reach. I'd love to hear from you and connect!
+- Jenna K.
 
